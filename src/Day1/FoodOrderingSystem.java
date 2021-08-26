@@ -1,4 +1,4 @@
-package com.company;
+package Day1;
 
 import java.awt.desktop.SystemEventListener;
 import java.util.Scanner;
